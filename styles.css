@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+}
+
+.left-column, .right-column {
+    width: 50%;
+    padding: 20px;
+}
+
+.left-column {
+    border-right: 1px solid #ddd;
+}
